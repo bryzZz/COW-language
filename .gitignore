@@ -1,0 +1,10 @@
+__pycache__/
+
+include/
+lib/
+lib64
+bin/
+.vscode/
+.pytest_cache/
+
+*.cfg
